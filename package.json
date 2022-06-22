@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/aksh7860/json-file-crd#readme",
   "dependencies": {
-    "async": "3.1.0",
+    "async": "3.2.2",
     "child_process": "^1.0.2",
     "clone": "2.1.2",
     "fs": "0.0.1-security",
